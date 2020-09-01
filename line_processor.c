@@ -1,9 +1,5 @@
 /**********************************************************************************
  * Name: Chelsea Marie Hicks
- * ONID 931286984
- * Course: CS 344
- * Assignment: Assignment #4
- * Due Date: August 14, 2020 by 11:59 PM
  * 
  * Description: Program for a multi-threaded producer consumer pipeline that reads 
  *      in lines of characters from standard input and writes to standard output
